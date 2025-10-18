@@ -3,6 +3,16 @@
 ## Overview
 This lesson teaches you the fundamental building blocks of Jetpack Compose layouts: **Row**, **Column**, **Box**, along with concepts like **spacing**, **alignment**, and **weight**.
 
+## 📱 What You'll Build
+
+<p align="center">
+  <img src="screenshot/Screenshot_20251018_202216_AndroidKotlinLesson2.jpg" width="250" />
+  <img src="screenshot/Screenshot_20251018_202222_AndroidKotlinLesson2.jpg" width="250" />
+  <img src="screenshot/Screenshot_20251018_202228_AndroidKotlinLesson2.jpg" width="250" />
+</p>
+
+*Interactive examples demonstrating Column, Row, Box, Weight, Alignment, and Spacing concepts*
+
 ## What You'll Learn
 
 ### 1. **Column** 📊
@@ -224,4 +234,3 @@ This is an educational project for learning Android Kotlin and Jetpack Compose.
 **Happy Learning! 🚀**
 
 Experiment with the code, modify the examples, and build your own layouts!
-
